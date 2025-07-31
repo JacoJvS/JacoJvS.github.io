@@ -215,6 +215,7 @@ body::before {
   font-weight: 900;
   line-height: 1.2;
   margin-bottom: 1.5rem;
+  margin-top: 6rem;
 }
 
 .hero-content .highlight {
